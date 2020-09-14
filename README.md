@@ -1,3 +1,8 @@
+<h1> React Todo List Application </h1>
+
+![TodoList](https://user-images.githubusercontent.com/52930844/93053749-e74eb600-f685-11ea-9132-d93b6d66029d.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
